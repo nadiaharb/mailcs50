@@ -1,0 +1,20 @@
+textarea {
+    min-height: 400px;
+}
+table{
+border-radius: 10px;
+}
+tr{
+border: 1px solid grey;
+border-radius: 10px;
+}
+.sender{
+font-weight: bold;
+padding-right:30px;
+}
+.subject{
+padding-right:250px;
+}
+.time{
+ padding-right: 10px;
+}
